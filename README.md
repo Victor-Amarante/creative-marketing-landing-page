@@ -1,0 +1,1 @@
+This project is about practive HTML and CSS skills I have been studying.
